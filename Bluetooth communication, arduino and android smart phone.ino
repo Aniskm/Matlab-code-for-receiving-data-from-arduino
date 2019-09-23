@@ -7,6 +7,7 @@
 #define SENSOR_THRESHOLD 300
 #define MAX_BRIGHTNESS 255
 #define PulseSensorPurplePin A0        // Pulse Sensor PURPLE WIRE connected to ANALOG PIN 0
+//you can find those head file from Internet
 int LED13 = 13;   //  The on-board Arduion LED
 int KEY_NUM = 0;
 int count = 0;
